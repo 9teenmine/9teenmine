@@ -2,11 +2,11 @@
 <p align="center"><img src='http://images6.fanpop.com/image/photos/43000000/-It-was-the-Night-Monkey-Spider-Man-Far-From-Home-2019-spider-man-43030337-540-285.gif' alt="Night Monkey Spider-Man Gif"></p>  
 
 <h1 align="center">Hi 🤘, I'm Htut Myat Oo</h1>
-<h3 align="center">A Developer who Love Music and Coding</h3>
+<h3 align="center">A Developer who Loves Music and Coding</h3>
 <br>
 
 <details>
-<img align='right' src='https://i.pinimg.com/564x/67/4c/97/674c9779a74378172cc12720c9e2244f.jpg' width='250'alt="Night Monkey Spider-Man Gif">
+<img align='right' src='https://i.pinimg.com/564x/67/4c/97/674c9779a74378172cc12720c9e2244f.jpg' width='250'alt="Retro Computer Music Production JPG">
 <br>
 <summary>
   <strong>🚀 Background Information:</strong>
@@ -16,7 +16,7 @@
 </details>
 
 <details open="">
-<img align='right' src='https://i.pinimg.com/564x/4e/71/3c/4e713c4a580873942a94bef175333b1b.jpg' width='250'alt="Night Monkey Spider-Man Gif">  
+<img align='right' src='https://i.pinimg.com/564x/4e/71/3c/4e713c4a580873942a94bef175333b1b.jpg' width='250'alt="The Amazing Spider-Man JPG">  
 <summary>
   <strong>🪐 General Status:</strong>
 </summary>
