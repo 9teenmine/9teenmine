@@ -12,7 +12,7 @@
   <strong>🚀 Background Information:</strong>
 </summary>
   
->"I'm an *Introvert Junior Developer* 🧑🏻 who is currently studying **Software Engineering Major** 👨‍💻  at [**GUSTO University.**](https://gusto.edu.mm/) I started learning **Computer Science** 💻 in 2019 and **Data Structure and Algorithm** 📈 in 2021. *Computer Music Production* and *Graphic Designing* are my other passionate subjects. I joined **GitHub** <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="15" width="20" /></a> on January 27, 2022."
+>"I'm an *Introvert Junior Developer* 🧑🏻 who is currently studying **Software Engineering Major** 👨‍💻 at [**University of Sunderland.**](https://www.sunderland.ac.uk/) I started learning **Computer Science** 💻 in 2019 and **Data Structure and Algorithm** 📈 in 2021. *Computer Music Production* and *Graphic Designing* are my other passionate subjects. I joined **GitHub** <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="15" width="20" /></a> on January 27, 2022."
 </details>
 
 <details open="">
@@ -21,7 +21,7 @@
   <strong>🪐 General Status:</strong>
 </summary>
 
-- 🌱 Currently learning **Web Development.**
+- 🌱 Currently learning **Web and Android Mobile Development**
 
 - 🤝 Looking to collaborate on **noting right now.**
 
