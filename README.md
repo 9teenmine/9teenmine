@@ -12,7 +12,7 @@
   <strong>🚀 Background Information:</strong>
 </summary>
   
->"I'm an *Introvert Junior Developer* 🧑🏻 who is currently studying **Software Engineering Major** 👨‍💻 at [**University of Sunderland.**](https://www.sunderland.ac.uk/) I started learning **Computer Science** 💻 in 2019 and **Data Structure and Algorithm** 📈 in 2021. *Computer Music Production* and *Graphic Designing* are my other passionate subjects. I joined **GitHub** <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="15" width="20" /></a> on January 27, 2022."
+>"I'm an *Introvert Junior Developer* 🧑🏻 who is currently studying **MSc. Applied Data Science** 👨‍💻 at [**University of Sunderland.**](https://www.sunderland.ac.uk/) I started learning **Computer Science** 💻 in 2019 and **Data Structure and Algorithm** 📈 in 2021. *Computer Music Production* and *Graphic Designing* are my other passionate subjects. I joined **GitHub** <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="15" width="20" /></a> on January 27, 2022."
 </details>
 
 <details open="">
@@ -21,11 +21,11 @@
   <strong>🪐 General Status:</strong>
 </summary>
 
-- 🌱 Currently learning **Web and Android Mobile Development**
+- 🌱 Currently learning **Web and Android Mobile Development and AI/ML**
 
 - 🤝 Looking to collaborate on **noting right now.**
 
-- 📫 Reach me via **kohtutoo19@gmail.com**
+- 📫 Reach me via **htutmyatoo.dev@gmail.com**
 
 - 🫠 Fun fact: **"*9teen*"** **is my nickname.**
 </details>
@@ -38,7 +38,7 @@
 
 <p align="left">
 <a href="https://instagram.com/9teenmine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9teenmine" height="30" width="40" /></a>
-<a href="https://twitter.com/htutmyatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htutmyatoo" height="30" width="40" /></a>
+<a href="[https://twitter.com/htutmyatoo](https://www.facebook.com/profile.php?id=61571991914898)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htutmyatoo" height="30" width="40" /></a>
 <a href="https://codepen.io/9teenmine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="9teenmine" height="30" width="40" /></a>
 </p>
 </details>
