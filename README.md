@@ -38,7 +38,7 @@
 
 <p align="left">
 <a href="https://instagram.com/9teenmine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9teenmine" height="30" width="40" /></a>
-<a href="[https://twitter.com/htutmyatoo](https://www.facebook.com/profile.php?id=61571991914898)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htutmyatoo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61571991914898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htutmyatoo" height="30" width="40" /></a>
 <a href="https://codepen.io/9teenmine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="9teenmine" height="30" width="40" /></a>
 </p>
 </details>
